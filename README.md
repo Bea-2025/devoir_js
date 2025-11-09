@@ -73,14 +73,14 @@ J’apprends, je construis et j’améliore mes compétences dans ces domaines �
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Béatrice&theme=radical&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bea-2025&theme=radical&show_icons=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Béatrice&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Bea-2025&theme=radical&hide_border=false" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Béatrice&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-2025&layout=compact&theme=radical" alt="Top Languages"/>
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=[ton-pseudo]&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[ton-pseudo].[ton-pseudo])
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Bea-2025&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bea-2025.Bea-2025)
 
 </div>
 
